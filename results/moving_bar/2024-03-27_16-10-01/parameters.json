@@ -1,0 +1,15 @@
+{
+    "num_seq": 3,
+    "seq_len": 3,
+    "h": 5,
+    "w": 5,
+    "inf_iters": 5,
+    "inf_lr": 0.005,
+    "learn_iters": 100,
+    "learn_lr": 0.01,
+    "latent_size": 10,
+    "control_size": 10,
+    "flattened_size": 25,
+    "sparse_penal": 0,
+    "n_cued": 2
+}
